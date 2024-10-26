@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.helloKittyBg {
+    background: url(../hello-k-bg.webp);
+    background-size: cover;
+    background-repeat: repeat;
+}
